@@ -79,9 +79,8 @@ Topics covered:
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amarjeet-05&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjeet-05&layout=compact&theme=tokyonight"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amarjeet-05&theme=tokyo-night)](https://github.com/Amarjeet-05)
 
 </p>
 
