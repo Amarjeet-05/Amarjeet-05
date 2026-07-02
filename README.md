@@ -43,12 +43,12 @@
 ✅ Python Fundamentals
 ✅ OOP in Python
 ✅ NumPy
-🟡 Pandas
+✅ Pandas
 🟡 Statistics
 🟡 Data Visualization
-⚪ Machine Learning
+🟡 Machine Learning
+🟡 NLP
 ⚪ Deep Learning
-⚪ NLP
 ⚪ MLOps
 ```
 
