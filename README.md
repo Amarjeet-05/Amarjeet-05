@@ -109,7 +109,7 @@ Topics covered:
 GitHub
 </a>
 
-<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">LinkedIn</a>
+<a href="https://www.linkedin.com/in/amarjeet-536b28297/">LinkedIn</a>
 
 </p>
 
