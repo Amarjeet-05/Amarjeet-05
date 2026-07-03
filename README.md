@@ -13,7 +13,7 @@
 </p> -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=⚡+Aman+Bhardwaj;📈+Turning+Data+Into+Insights;🤖+Exploring+AI+and+Machine+Learning;🚀+Building+Projects+That+Matter"
+    src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&duration=5000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Aman.;Aspiring+Data+Scientist.;Learning+in+Public.;Building+the+Future%2C+One+Project+at+a+Time."
     alt="Typing SVG"
   />
 </p>
