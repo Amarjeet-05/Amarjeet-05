@@ -5,9 +5,15 @@
     alt="Typing SVG"
   />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=C778DD&center=true&vCenter=true&width=1000&lines=Data+Science.;Machine+Learning.;Artificial+Intelligence.;Turning+Ideas+Into+Projects."
+    alt="Typing SVG"
+  />
+</p> -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=⚡+Aman+Bhardwaj;📈+Turning+Data+Into+Insights;🤖+Exploring+AI+and+Machine+Learning;🚀+Building+Projects+That+Matter"
     alt="Typing SVG"
   />
 </p>
