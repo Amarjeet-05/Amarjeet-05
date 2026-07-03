@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amarjeet</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=Python+%E2%9C%85;NumPy+%E2%9C%85;Pandas+%F0%9F%9F%A1;Statistics+%F0%9F%9F%A1;Machine+Learning+Loading...;Future+Data+Scientist+%F0%9F%9A%80" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Aman+Bhardwaj;Data+Science+%7C+Machine+Learning+%7C+AI"
+    alt="Typing SVG"
+  />
 </p>
 
 <h3 align="center">Aspiring Data Scientist | Python Enthusiast | Lifelong Learner</h3>
