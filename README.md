@@ -102,15 +102,6 @@ Topics covered:
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Amarjeet-05&theme=tokyonight"/>
-
-</p>
 
 ---
 
