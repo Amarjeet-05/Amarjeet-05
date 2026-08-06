@@ -114,9 +114,6 @@ Topics covered:
 
 <p align="left">
 
-<a href="https://github.com/Amarjeet-05">
-GitHub
-</a>
 
 <a href="https://www.linkedin.com/in/amarjeet-536b28297/">LinkedIn</a>
 
