@@ -66,7 +66,7 @@
 🟡 Data Visualization
 🟡 Machine Learning
 🟡 NLP
-⚪ Deep Learning
+🟡 Deep Learning
 ⚪ MLOps
 ```
 
